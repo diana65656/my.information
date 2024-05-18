@@ -18,6 +18,13 @@ body {
     padding: 5px;
     box-shadow: 3px 3px 3px 3px #3C4049;
 }
+.link-nav{
+    margin: 10px;
+    color: #260236;
+    border: 4px double #1D0333;
+    padding: 3px;
+    text-decoration: none;
+}
 h1{
     text-align:center;
     border: 5px dotted  #25063F;
