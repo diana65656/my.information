@@ -2,6 +2,9 @@ body {
     font-family: sans-serif;
     background-image: linear-gradient(#A66ED3,#653D85);
 }
+header {
+    height: 40px;
+}
 .link-header{
     border: 4px solid #421B61;
     border-radius:5px;
