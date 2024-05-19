@@ -38,6 +38,8 @@ main img {
     border: 4px inset #421B61;
     box-shadow: 5px 5px 5px #421B61;
     margin-right: 8px;
+    margin:5px;
+    width:100%;
 }
 p{
     margin-left: 20px;
